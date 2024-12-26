@@ -1,48 +1,10 @@
-# Project I  
-# Final Project for the Project I course in the Bachelor's Degree in Analytics (Data Science) at ITBA.  
-# Analysis of Fuel Prices and Volumes in Argentina.
+# Proyecto I  
+# Trabajo Final de la Materia Proyecto I de la Licenciatura en Analítica (Data Science) del ITBA.  
+# Análisis de Precios y Volúmenes de Nafta en Argentina  
 
-This project aims to analyze the **historical fuel prices** at service stations across Argentina, along with the **fuel sales volumes** over the past year. In addition, news articles were taken into account to support and contrast the analyzed data, providing a more complete and contextualized view of the fuel market in the country.
+Este proyecto analiza los **precios históricos de los combustibles**, los **volúmenes de venta** y la **cantidad de estaciones de servicio** en Argentina. El análisis abarca **distintos años y períodos**, incluyendo las épocas **pre y post COVID** y **pre y post Milei**, ofreciendo una visión sobre cómo estos eventos influyeron en el mercado de combustibles. Los datos fueron obtenidos de **bases de la Secretaría de Energía de la Nación** y complementados con artículos periodísticos para agregar contexto, y a su vez preprocesados en RStudio por datos inconsistentes, duplicados o vacíos. 
 
-## Project Description  
-
-1. **Main Objectives**:  
-   - Study the evolution of fuel prices over time.  
-   - Identify patterns in sales volumes by region and service station.  
-   - Validate findings with information from relevant news sources.  
-
-2. **Data Cleaning and Preparation**:  
-   - A **comprehensive data cleaning process** was carried out to ensure high-quality analysis.  
-   - Removal of inconsistent, duplicate, or incomplete data.  
-   - Standardization of date formats, measurement units, and classification of stations by region.  
-
-3. **Visualization**:  
-   - The dashboard was created in **Tableau Public** to facilitate interactive visualization of the results.  
-   - Dynamic charts allow exploration of:  
-     - Fuel prices by province and service station.  
-     - Sales volumes by fuel type (e.g., regular, premium, etc.).  
-     - Temporal and regional comparisons of the data.  
-
-## Dashboard Access  
-
-👉 You can explore the interactive dashboard in "trabajo_final.md". 👈
-
-## Information Sources  
-
-The analysis was enriched using the following sources:  
-- **Databases of service stations** in Argentina.  
-- **Historical records of prices and sales** from reliable sources.  
-- **Relevant news articles** about the fuel market in the past year.  
-
-## Tools Used  
-
-- **Tableau Public**: For creating interactive dashboards.  
-- **R**: For data cleaning and preprocessing.  
-- **Open data sources**: Information on stations, prices, and volumes.  
-
-## Contributions and Suggestions  
-
-If you have additional information, complementary data, or comments about this project, feel free to contribute. You can open an issue or submit a pull request to the repository. Your input is highly appreciated!  
+👉 Explora el dashboard interactivo en "trabajo_final.md". 👈  
 
 ---  
-This analysis aims to provide a valuable tool for better understanding the behavior of the fuel market in Argentina and to encourage further research.
+Este análisis busca ofrecer una herramienta para comprender el mercado de combustibles en Argentina y servir como base para investigaciones futuras.
